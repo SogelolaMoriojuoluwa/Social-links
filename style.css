@@ -18,8 +18,8 @@
     background-color: hsl(0, 0%, 12%);
 }
 .img img{
-    height: 70px;
-    width: 70px;
+    height: 100px;
+    width: 100px;
     border-radius: 50%;
     padding: 25px;
 }
@@ -43,11 +43,13 @@ h1{
     background-color:  hsl(0, 0%, 20%);
     padding: 10px;
     border-bottom: 5px solid transparent;
-    color:  hsl(0, 0%, 100%);
+    color:hsl(0, 0%, 100%);
 
 }
 .btn a:hover{
+    color: black;
     background-color: hsl(75 , 94%, 57%)
+
 
 }
 @media screen and (max-width: 320px) {
